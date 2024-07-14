@@ -12,6 +12,8 @@ namespace Lap3
 
         public string Name { get; set; }
 
+        public int sal { get; set; }
+
 
     }
 }
