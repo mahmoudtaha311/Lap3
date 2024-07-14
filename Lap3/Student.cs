@@ -31,6 +31,7 @@ namespace Lap3
         }
         
 
+
         public bool IsGrauate(int age)
         {
             if( age >= 24 )
